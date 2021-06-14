@@ -53,6 +53,6 @@
 
 .specials span {
     background: var(--light-color);
-    margin-top: 1rem;
+    margin-top: 1.5rem 0;
     height: 3px;
 }
